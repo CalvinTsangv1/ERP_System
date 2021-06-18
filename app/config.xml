@@ -1,0 +1,18 @@
+<PurchaseRequest>
+    <staff>12</staff>
+    <postTitle>rm</postTitle>
+    <branch>2</branch>
+    <expectedDeliveryDate>6</expectedDeliveryDate>
+    <Item id="1">
+        <quantity>11</quantity>
+        <balance>12</balance>
+    </Item>
+    <Item id="2">
+        <quantity>12</quantity>
+        <balance>12</balance>
+    </Item>
+    <Item id="3">
+        <quantity>12</quantity>
+        <balance>12</balance>
+    </Item>
+</PurchaseRequest>
